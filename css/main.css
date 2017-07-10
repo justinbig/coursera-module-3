@@ -11,6 +11,10 @@ body {
 
 }
 
+nav li:hover {
+   background: lightblue;
+}
+
 nav a:hover {
   color: white;
 }
